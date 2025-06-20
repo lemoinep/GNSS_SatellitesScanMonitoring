@@ -6,6 +6,8 @@ import math
 import time
 import threading
 
+sys.path.append(os.path.join(os.path.dirname(__file__), 'YoctoLib.python'))
+
 try:
     import pynmea2
 except ImportError:

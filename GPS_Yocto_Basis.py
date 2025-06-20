@@ -1,6 +1,9 @@
 
 
 import os, sys
+
+sys.path.append(os.path.join(os.path.dirname(__file__), 'YoctoLib.python'))
+
 from yocto_api import *
 from yocto_gps import *
 
