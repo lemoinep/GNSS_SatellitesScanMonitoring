@@ -174,7 +174,7 @@ The Yocto-GPS-V2 module exemplifies modern GPS technology, providing:
 
 - **GSO/NGSO Licenses:** Required for GEO, LEO, and MEO satellites; specify technical, service, and orbital parameters.
 - **Experimental Licenses:** For testing new technologies.
-- **Spectrum Coordination:** Prevents interference and ensures equitable access[^1].
+- **Spectrum Coordination:** Prevents interference and ensures equitable access [^1].
 
 
 ### 9.3 Technical Standards and Compliance
@@ -214,7 +214,7 @@ Where (all in dB/dBm unless otherwise noted):
 - $L_{fs}$: Free space path loss
 - $L_{prop}$: Propagation losses (rain, atmospheric, polarization, pointing, etc.)
 - $G_{rx}$: Receiver antenna gain
-- $L_{rx}$: Receiver-side losses (cables, connectors, demodulator)[^1][^4][^7]
+- $L_{rx}$: Receiver-side losses (cables, connectors, demodulator) [^1][^4][^7]
 
 
 #### Free Space Path Loss (FSPL)
@@ -248,7 +248,7 @@ Where:
 
 - $EIRP = P_{tx} + G_{tx} - L_{tx}$ (Equivalent Isotropically Radiated Power)
 - $G/T$: Receiver system figure of merit (antenna gain/system noise temperature)
-- $k$: Boltzmann's constant in dBW/K/Hz ($-228.6$ dB)[^3][^6]
+- $k$: Boltzmann's constant in dBW/K/Hz ($-228.6$ dB) [^3][^6]
 
 
 ### 11.2 Step-by-Step Link Budget Calculation Example
