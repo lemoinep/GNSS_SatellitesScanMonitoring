@@ -17,6 +17,8 @@ Future development will allow selecting one of the satellites and communicating 
 
 # Comprehensive Documentation on Satellite Communication Systems and GPS Technology
 
+<img src="Images/P0002.jpg" width="75%" />
+
 ## 1. Introduction
 
 To communicate with a satellite whose position you have located via GPS in the wilderness, several options are available, depending on the type of communication desired and the equipment at hand:
