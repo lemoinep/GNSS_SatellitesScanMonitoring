@@ -1,3 +1,11 @@
+# GNSS Satellites Scan Monitoring
+
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/lemoinep/GNSS_SatellitesScanMonitoring)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
+
+---
+
 This project provides a set of Python tools for scanning, monitoring, and analyzing GNSS (Global Navigation Satellite System) satellite signals. The programs enable real-time detection and tracking of multiple satellite constellations, collection of signal quality and status data, and visualization of satellite positions and signal metrics. These tools support monitoring GNSS performance, detecting anomalies or signal disruptions, and assisting in research or development related to satellite navigation and positioning systems.
 
 Python Program Descriptions
@@ -17,7 +25,13 @@ Future development will allow selecting one of the satellites and communicating 
 
 # Comprehensive Documentation on Satellite Communication Systems and GPS Technology
 
+<p align="center">
+<img src="Images/P0003.jpg" width="75%" />
+</p>
+
+<p align="center">
 <img src="Images/P0002.jpg" width="75%" />
+</p>
 
 ## 1. Introduction
 
@@ -79,6 +93,10 @@ Key engineering considerations include:
 ## 4. GPS Technology: The Yocto-GPS-V2 Module
 
 ### 4.1 Core Features
+
+<p align="center">
+<img src="Images/Z20260210_000013.jpg" width="75%" />
+</p>
 
 The Yocto-GPS-V2 module exemplifies modern GPS technology, providing:
 
@@ -425,3 +443,14 @@ Satellite communication systems and GPS technology are indispensable for global 
 <img src="Images/Z20260109_000013.jpg" width="100%" />
 <img src="Images/Z20260109_000014.jpg" width="100%" />
 <img src="Images/Z20260109_000015.jpg" width="100%" />
+
+
+---
+
+## 📝 **Author**
+
+**Dr. Patrick Lemoine**  
+*Engineer Expert in Scientific Computing*  
+[LinkedIn](https://www.linkedin.com/in/patrick-lemoine-7ba11b72/)
+
+---
