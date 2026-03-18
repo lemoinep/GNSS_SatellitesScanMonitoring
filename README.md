@@ -26,11 +26,11 @@ Future development will allow selecting one of the satellites and communicating 
 # Comprehensive Documentation on Satellite Communication Systems and GPS Technology
 
 <p align="center">
-<img src="Images/P0003.jpg" width="75%" />
+<img src="Images/P0003.jpg" width="100%" />
 </p>
 
 <p align="center">
-<img src="Images/P0002.jpg" width="75%" />
+<img src="Images/P0002.jpg" width="100%" />
 </p>
 
 ## 1. Introduction
@@ -95,7 +95,7 @@ Key engineering considerations include:
 ### 4.1 Core Features
 
 <p align="center">
-<img src="Images/Z20260210_000013.jpg" width="75%" />
+<img src="Images/Z20260210_000013.jpg" width="100%" />
 </p>
 
 The Yocto-GPS-V2 module exemplifies modern GPS technology, providing:
