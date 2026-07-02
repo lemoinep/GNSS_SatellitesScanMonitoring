@@ -3,6 +3,10 @@
 [![Version](https://img.shields.io/badge/version-1.5-green.svg)](https://github.com/lemoinep/GNSS_SatellitesScanMonitoring)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
+[![GNSS](https://img.shields.io/badge/GNSS-satellites-blue.svg)]()
+[![Monitoring](https://img.shields.io/badge/Monitoring-signal-blueviolet.svg)]()
+[![Scanning](https://img.shields.io/badge/Scanning-detection-orange.svg)]()
+[![Signal](https://img.shields.io/badge/Signal-processing-informational.svg)]()
 
 ---
 
